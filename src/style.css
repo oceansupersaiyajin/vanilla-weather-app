@@ -6,8 +6,8 @@ body {
 }
 
 h1 {
-  color: #f65282;
-  font-size: 28px;
+  color: #ee2b66;
+  font-size: 30px;
   font-weight: 500;
   line-height: 30px;
   margin-bottom: 2;
@@ -48,13 +48,13 @@ h1 {
     rgb(160, 199, 254) 74.6%
   );
   padding: 20px;
-  border: 3px solid #f0f4f8;
+  border: 3px solid #e3eaf1e5;
   border-radius: 5px;
 }
 
 .weather-app-wrapper .btn {
   display: inline-block;
-  background: #f65282;
+  background: #ee2b66;
   border: none;
   border-radius: 6px;
   font-size: 16px;
@@ -63,10 +63,10 @@ h1 {
 }
 
 #humidity {
-  color: #f65282;
+  color: #ee2b66;
 }
 #wind {
-  color: #f65282;
+  color: #ee2b66;
 }
 
 #city-input {
